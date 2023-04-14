@@ -1,1 +1,1 @@
-BUCKET_NAME = "terraform_module_bjr09"
+BUCKET_NAME = "terraformmodulebjr009"
